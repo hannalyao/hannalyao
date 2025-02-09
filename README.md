@@ -11,7 +11,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hannalyao&theme=transparent&layout=compact)
 
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/hannalyao/count.svg) visitor, thank You! :relaxed: 
+You are my ![Visitor Count](https://profile-counter.glitch.me/hannalyao/count.svg) visitor, thank you! :relaxed: 
 
 ### My Skill Set
 
