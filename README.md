@@ -6,7 +6,6 @@
 - 📫 How to reach me: yaohan@student.pumc.edu.cn
 - 😄 Read more about my CSDN: [here](https://blog.csdn.net/weixin_43645790?spm=1000.2115.3001.5343)
 
-![](https://github-readme-stats.vercel.app/api?username=hannalyao&show_icons=true&theme=transparent)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hannalyao&theme=transparent&layout=compact)
 
